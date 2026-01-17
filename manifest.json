@@ -1,7 +1,7 @@
 {
   "id": "TPS-Smart-Explorer",
   "name": "TPS - Smart Explorer",
-  "version": "0.1.0",
+  "version": "v1.0.0",
   "minAppVersion": "1.7.0",
   "description": "Adds a second sidebar tab that mirrors the native File Explorer.",
   "author": "Kilo Code",
