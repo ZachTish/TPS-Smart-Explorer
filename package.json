@@ -1,13 +1,13 @@
 {
   "name": "tps-smart-explorer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Adds a second sidebar tab that mirrors the native File Explorer.",
   "main": "main.js",
   "scripts": {
     "dev": "node esbuild.config.mjs",
     "build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
-    "version": "node version-bump.mjs && git add manifest.json versions.json"
+    "version": "1.0.0"
   },
   "keywords": [
     "obsidian",
